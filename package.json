@@ -1,0 +1,24 @@
+{
+  "name": "audio-player",
+  "version": "1.0.0",
+  "description": "Visualization of sound using Paper.js",
+  "main": "index.html",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "paper": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-Jever/audio-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-Jever/audio-player/issues"
+  },
+  "homepage": "https://github.com/O-Jever/audio-player#readme"
+}
